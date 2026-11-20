@@ -1,0 +1,7 @@
+1. Name a block that drops something other than itself
+2. Name a mob that comes in more than one variant
+3. Name something with Gold or Golden in its name
+4. Name a mob that can fly
+5. Name a block you can find in the Nether
+6. Name an item you craft with slabs
+7. Name a block with an animated texture
