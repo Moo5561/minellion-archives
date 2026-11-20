@@ -1,8 +1,13 @@
 Ver/prsnt: 1
 
 StorageStart/Root
-	List/items//
-		"Name something you can craft from a single item"/"Name an item you can't craft"/"Name a block you dig fastest with a shovel"/"Name a mob smaller than you"/"Name a block that a piston breaks when it pushes it"/"Name an edition of Minecraft"/"Name a block that redstone can power or activate"/\\
+	Txt/q1: Name something you can craft from a single item
+	Txt/q2: Name an item you can't craft
+	Txt/q3: Name a block you dig fastest with a shovel
+	Txt/q4: Name a mob smaller than you
+	Txt/q5: Name a block that a piston breaks when it pushes it
+	Txt/q6: Name an edition of Minecraft
+	Txt/q7: Name a block that redstone can power or activate
 StorageEnd/Root
 =c=
 This does not mean something crafted from multiple of the same item.
